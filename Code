@@ -129,7 +129,7 @@ void Calendar :: print(){
 	tempfirstday = DayOfWeekCounter + 1;
 }
 
-void main()                    //This was to just be able to run your class...
+void main()                  
 {
 	Calendar c;
 	clrscr();
